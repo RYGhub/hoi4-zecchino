@@ -1,20 +1,35 @@
+#=============================================================================#
+# https://hoi4.paradoxwikis.com/Event_modding
+#=============================================================================#
+
+# L'identificatore degli eventi di questo file
 add_namespace = zecchino
 
+
+# Crea un nuovo evento "World News"
 news_event = {
+
+    # ID dell'evento, deve essere il namespace seguito da un numero non ancora utilizzato
     id = zecchino.1
-    title = {
-        text = zecchino.1.title
-    }
-    desc = {
-        text = zecchino.1.desc
-    }
+
+    # Stringa contenente il titolo dell'evento 
+    title = zecchino.1.title
+    # Stringa contenente il testo dell'evento
+    desc = zecchino.1.desc
+    # ID dell'immagine dell'evento
     picture = GFX_news_event_001
+
+    # Condizioni perchè l'evento possa partire, controllate ogni 20 giorni
     trigger = {
         always = yes
     }
+
+    # Opzione cliccabile (possono essercene varie)
     option = {
+        # Stringa contenente il testo dell'opzione
         name = zecchino.1.ok
     }
-    is_triggered_only = yes
+
+    # Manda l'evento a tutte le nazioni
     major = yes
 }
