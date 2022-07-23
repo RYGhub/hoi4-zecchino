@@ -36,3 +36,28 @@ news_event = {
     # Manda l'evento a tutte le nazioni
     major = yes
 }
+
+
+### Diaz Division in South Africa
+news_event = {
+
+    id = zecchino.3
+
+    title = zecchino.3.title
+    desc = zecchino.3.desc
+    picture = GFX_news_event_009
+
+    trigger = {
+        country_exists = ITA
+    }
+
+    mean_time_to_happen = {
+        years = 2
+    }
+
+    option = {
+        name = zecchino.3.ok
+    }
+
+    major = yes
+}
