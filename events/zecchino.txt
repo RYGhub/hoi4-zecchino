@@ -81,4 +81,6 @@ news_event = {
     option = {
         name = zecchino.3.ok
     }
+
+    major = yes
 }
