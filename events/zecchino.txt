@@ -36,3 +36,22 @@ news_event = {
     # Manda l'evento a tutte le nazioni
     major = yes
 }
+
+news_event = {
+    id = zecchino.2
+    title = zecchino.2.title
+    desc = zecchino.2.desc
+    picture = GFX_news_event_filov_with_mussolini
+    trigger = {
+        always=yes
+    }
+
+    mean_time_to_happen = {
+        years = 1
+    }
+
+    option = {
+        name = zecchino.2.ok
+    }
+    major = yes
+}
