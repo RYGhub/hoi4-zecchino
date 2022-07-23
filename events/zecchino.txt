@@ -21,10 +21,8 @@ news_event = {
 
     # Condizioni perchè l'evento possa partire, controllate ogni 20 giorni
     trigger = {
-        AND = {
-            date > 1936.06.01
-            date < 1936.06.30
-        }
+        date > 1936.06.01
+        date < 1936.06.30
     }
 
     # Opzione cliccabile (possono essercene varie)
@@ -95,16 +93,13 @@ news_event = {
     picture = GFX_news_event_025
 
     trigger = {
-        AND = {
-            country_exists = GER
-            date > 1936.03.01
-            
-            NOT = {
-                has_global_flag = hindenburg_destroyed
-                has_global_flag = hindenburg_survives
-            }
+        country_exists = GER
+        date > 1936.03.01
+        
+        NOT = {
+            has_global_flag = hindenburg_destroyed
+            has_global_flag = hindenburg_survives
         }
-
     }
 
     mean_time_to_happen = {
