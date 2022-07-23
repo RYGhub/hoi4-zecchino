@@ -87,12 +87,15 @@ news_event = {
 
 ### Toy Blimp Incident
 news_event = {
+
     id = zecchino.4
+
     title = zecchino.4.title
     desc = zecchino.4.desc
     picture = GFX_news_event_025
+
     trigger = {
-        always=yes
+        always = yes
     }
 
     mean_time_to_happen = {
@@ -102,6 +105,7 @@ news_event = {
     option = {
         name = zecchino.4.ok
     }
+    
     major = yes
 }
 
