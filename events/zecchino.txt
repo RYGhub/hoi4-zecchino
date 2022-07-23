@@ -55,3 +55,22 @@ news_event = {
     }
     major = yes
 }
+
+news_event = {
+    id = zecchino.4
+    title = zecchino.4.title
+    desc = zecchino.4.desc
+    picture = GFX_news_event_025
+    trigger = {
+        always=yes
+    }
+
+    mean_time_to_happen = {
+        months = 6
+    }
+
+    option = {
+        name = zecchino.4.ok
+    }
+    major = yes
+}
