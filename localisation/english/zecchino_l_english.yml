@@ -11,6 +11,8 @@
   zecchino.3.desc: "Adolfo Andante, a soldier of the Italian 1st Diaz Division, was arrested by the local police while drunk on the beaches of Cape Town.\n\nHe first went missing at the beginning of the Italian invasion of Ethiopia, when their division was ordered to perform a naval landing on the coast of Addis Abeba."
   zecchino.3.ok: "What a drunkard."
 
-  zecchino.4.title: "Toy Zeppelin Explodes"
-  zecchino.4.desc: "An inflatable toy version of the famous german blimp has exploded after 7 years old Hans Zimmer took it for a small flight in his backyard.\n\nThe fuhrer himself has said that he will send a couple of Flammenwerfer to calm this sad child."
-  zecchino.4.ok: "What a bad omen."
+  zecchino.4.title: "Toy Hindenburg catches on fire"
+  zecchino.4.desc: "A small helium balloon shaped like the famous German airship, the LZ 129 Hindenburg, has popped during a military parade in Germany.\n\nThe owner of the balloon, a 7 years old child named Hans, was flying it to celebrate the soldiers, when a lightning bolt struck it, making it catch fire and later explode.\n\nDue to the happening, Hans started crying, and to calm him down, the Führer himself promised to send him a couple of toy flamethrowers."
+  zecchino.4.ok.axis: "A bad omen for the Zeppelin company."
+  zecchino.4.ok.allies: "I've never liked balloons."
+  zecchino.4.ok.other: "Whatever."

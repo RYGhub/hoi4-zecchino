@@ -112,7 +112,66 @@ news_event = {
     }
 
     option = {
-        name = zecchino.4.ok
+        name = zecchino.4.ok.axis
+
+        trigger = {
+            OR = {
+                # Germany
+                tag = GER
+                # Italy 
+                tag = ITA
+                # Japan
+                tag = JAP
+                # Romania
+                tag = ROM
+                # Bulgaria
+                tag = BUL
+                # Nationalist Spain
+                tag = D01
+            }
+        }
+    }
+
+    option = {
+        name = zecchino.4.ok.allies
+
+        trigger = {
+            OR = {
+                # United States
+                tag = USA
+                # United Kingdom
+                tag = ENG
+                # France
+                tag = FRA
+                # British Raj
+                tag = RAJ
+                # Canada
+                tag = CAN
+                # Australia
+                tag = AST
+            }
+        }
+    }
+
+    option = {
+        name = zecchino.4.ok.other
+
+        trigger = {
+            NOT = {
+                tag = GER
+                tag = ITA
+                tag = JAP
+                tag = ROM
+                tag = BUL
+                tag = D01
+                tag = USA
+                tag = ENG
+                tag = FRA
+                tag = RAJ
+                tag = CAN
+                tag = AST
+            }
+        }
     }
 
     major = yes
