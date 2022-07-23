@@ -17,11 +17,14 @@ news_event = {
     # Stringa contenente il testo dell'evento
     desc = zecchino.1.desc
     # ID dell'immagine dell'evento
-    picture = GFX_news_event_001
+    picture = GFX_news_event_009
 
     # Condizioni perchè l'evento possa partire, controllate ogni 20 giorni
     trigger = {
-        always = yes
+        AND = {
+            date > 1936.06.01
+            date < 1936.06.30
+        }
     }
 
     # Opzione cliccabile (possono essercene varie)
