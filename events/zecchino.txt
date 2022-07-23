@@ -37,6 +37,29 @@ news_event = {
     major = yes
 }
 
+### Mysterious jar
+news_event = {
+
+    id = zecchino.2
+
+    title = zecchino.2.title
+    desc = zecchino.2.desc
+    picture = GFX_news_event_filov_with_mussolini
+
+    trigger = {
+        always = yes
+    }
+
+    mean_time_to_happen = {
+        years = 1
+    }
+
+    option = {
+        name = zecchino.2.ok
+    }
+    
+    major = yes
+}
 
 ### Diaz Division in South Africa
 news_event = {
@@ -58,6 +81,4 @@ news_event = {
     option = {
         name = zecchino.3.ok
     }
-
-    major = yes
 }
