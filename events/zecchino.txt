@@ -47,7 +47,7 @@ news_event = {
 
     is_triggered_only = yes
     trigger = {
-        always = yes
+        country_exists = ITA
     }
 
     option = {
@@ -64,7 +64,7 @@ news_event = {
 
     title = zecchino.3.title
     desc = zecchino.3.desc
-    picture = GFX_news_event_009
+    picture = GFX_event_test
 
     is_triggered_only = yes
     trigger = {
@@ -162,4 +162,3 @@ news_event = {
 
     major = yes
 }
-
