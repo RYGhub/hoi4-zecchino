@@ -162,3 +162,26 @@ news_event = {
 
     major = yes
 }
+
+
+### The Beginning
+news_event = {
+
+    id = zecchino.5
+
+    title = zecchino.5.title
+    desc = zecchino.5.desc
+    picture = GFX_zecchino_ryg
+
+    is_triggered_only = yes
+    trigger = {
+        always = yes
+    }
+
+    option = {
+        name = zecchino.5.ok
+    }
+
+    major = yes
+}
+

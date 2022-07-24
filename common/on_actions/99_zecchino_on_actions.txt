@@ -25,6 +25,11 @@ on_actions = {
 					days = 460
 				}
 			}
+			USA = {
+				news_event = {
+					id = zecchino.5
+				}
+			}
 		}
 	}
 }
