@@ -19,10 +19,11 @@ news_event = {
     # ID dell'immagine dell'evento
     picture = GFX_news_event_009
 
-    # Condizioni perchè l'evento possa partire, controllate ogni 20 giorni
+    # L'evento è triggerato da una on_action
+    is_triggered_only = yes
+    # Condizioni aggiuntive perchè l'evento possa partire, controllate all'inizio di ogni giorno
     trigger = {
-        date > 1936.06.01
-        date < 1936.06.30
+        always = yes
     }
 
     # Opzione cliccabile (possono essercene varie)
@@ -44,12 +45,9 @@ news_event = {
     desc = zecchino.2.desc
     picture = GFX_news_event_filov_with_mussolini
 
+    is_triggered_only = yes
     trigger = {
         always = yes
-    }
-
-    mean_time_to_happen = {
-        years = 1
     }
 
     option = {
@@ -68,12 +66,9 @@ news_event = {
     desc = zecchino.3.desc
     picture = GFX_news_event_009
 
+    is_triggered_only = yes
     trigger = {
         country_exists = ITA
-    }
-
-    mean_time_to_happen = {
-        years = 2
     }
 
     option = {
@@ -92,18 +87,14 @@ news_event = {
     desc = zecchino.4.desc
     picture = GFX_news_event_025
 
+    is_triggered_only = yes
     trigger = {
         country_exists = GER
-        date > 1936.03.01
         
         NOT = {
             has_global_flag = hindenburg_destroyed
             has_global_flag = hindenburg_survives
         }
-    }
-
-    mean_time_to_happen = {
-        months = 6
     }
 
     option = {
@@ -112,17 +103,17 @@ news_event = {
         trigger = {
             OR = {
                 # Germany
-                tag = GER
+                TAG = GER
                 # Italy 
-                tag = ITA
+                TAG = ITA
                 # Japan
-                tag = JAP
+                TAG = JAP
                 # Romania
-                tag = ROM
+                TAG = ROM
                 # Bulgaria
-                tag = BUL
+                TAG = BUL
                 # Nationalist Spain
-                tag = D01
+                TAG = D01
             }
         }
     }
@@ -133,17 +124,17 @@ news_event = {
         trigger = {
             OR = {
                 # United States
-                tag = USA
+                TAG = USA
                 # United Kingdom
-                tag = ENG
+                TAG = ENG
                 # France
-                tag = FRA
+                TAG = FRA
                 # British Raj
-                tag = RAJ
+                TAG = RAJ
                 # Canada
-                tag = CAN
+                TAG = CAN
                 # Australia
-                tag = AST
+                TAG = AST
             }
         }
     }
@@ -153,18 +144,18 @@ news_event = {
 
         trigger = {
             NOT = {
-                tag = GER
-                tag = ITA
-                tag = JAP
-                tag = ROM
-                tag = BUL
-                tag = D01
-                tag = USA
-                tag = ENG
-                tag = FRA
-                tag = RAJ
-                tag = CAN
-                tag = AST
+                TAG = GER
+                TAG = ITA
+                TAG = JAP
+                TAG = ROM
+                TAG = BUL
+                TAG = D01
+                TAG = USA
+                TAG = ENG
+                TAG = FRA
+                TAG = RAJ
+                TAG = CAN
+                TAG = AST
             }
         }
     }

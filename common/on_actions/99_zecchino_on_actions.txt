@@ -1,0 +1,30 @@
+on_actions = {
+	on_startup = {
+		effect = {
+			ITA = {
+				news_event = {
+					id = zecchino.1
+					random = 23
+					days = 161
+				}
+				news_event = {
+					id = zecchino.2
+					random = 23
+					days = 304
+				}
+				news_event = {
+					id = zecchino.3
+					random = 23
+					days = 570
+				}
+			}
+			GER = {
+				news_event = {
+					id = zecchino.4
+					random = 23
+					days = 460
+				}
+			}
+		}
+	}
+}
