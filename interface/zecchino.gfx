@@ -23,4 +23,8 @@ spriteTypes = {
 		name = "GFX_zecchino_beach"
 		texturefile = "gfx/event_pictures/zecchino_beach.dds"
 	}
+	spriteType = {
+		name = "GFX_zecchino_focus_acic_banned"
+		texturefile = "gfx/interface/goals/focus_acic_banned.dds"
+	}
 }
