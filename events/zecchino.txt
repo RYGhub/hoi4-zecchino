@@ -85,7 +85,7 @@ news_event = {
 
     title = zecchino.4.title
     desc = zecchino.4.desc
-    picture = GFX_news_event_025
+    picture = GFX_zecchino_balloons
 
     is_triggered_only = yes
     trigger = {
