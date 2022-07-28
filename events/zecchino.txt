@@ -17,7 +17,7 @@ news_event = {
     # Stringa contenente il testo dell'evento
     desc = zecchino.1.desc
     # ID dell'immagine dell'evento
-    picture = GFX_news_event_009
+    picture = GFX_zecchino_matteotti
 
     # L'evento è triggerato da una on_action
     is_triggered_only = yes
