@@ -63,4 +63,8 @@ spriteTypes = {
 		name = "GFX_goal_demand_sudetenland_banned"
 		texturefile = "gfx/interface/goals/goal_demand_sudetenland_banned.dds"
 	}
+	spriteType = {
+		name = "GFX_goal_generic_position_armies_changed"
+		texturefile = "gfx/interface/goals/goal_generic_position_armies_changed.dds"
+	}
 }
