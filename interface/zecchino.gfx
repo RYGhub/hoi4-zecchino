@@ -40,7 +40,7 @@ spriteTypes = {
 		texturefile = "gfx/interface/goals/goal_generic_construct_civ_factory_changed.dds"
 	}
 	spriteType = {
-		name = "GFX_goal_tfv_sever_ties_with_uk"
-		texturefile = "gfx/interface/goals/goal_tfv_sever_ties_with_uk.dds"
+		name = "GFX_goal_tfv_sever_ties_with_uk_banned"
+		texturefile = "gfx/interface/goals/goal_tfv_sever_ties_with_uk_banned.dds"
 	}
 }
