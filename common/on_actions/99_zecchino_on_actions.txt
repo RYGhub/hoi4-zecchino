@@ -30,6 +30,13 @@ on_actions = {
 					id = zecchino.5
 				}
 			}
+			JAP = {
+				news_event = {
+					id = zecchino.6
+					random = 23
+					days = 762
+				}
+			}
 		}
 	}
 }

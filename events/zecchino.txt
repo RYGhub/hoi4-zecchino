@@ -185,3 +185,29 @@ news_event = {
     major = yes
 }
 
+
+### The Church
+news_event = {
+
+    id = zecchino.6
+
+    title = zecchino.6.title
+    desc = zecchino.6.desc
+    picture = GFX_zecchino_church
+
+    is_triggered_only = yes
+    trigger = {
+        OR = {
+            country_exists = SPA
+            country_exists = D01
+        }
+        country_exists = JAP
+    }
+
+    option = {
+        name = zecchino.6.ok
+    }
+
+    major = yes
+
+}
