@@ -199,6 +199,7 @@ news_event = {
     trigger = {
         OR = {
             country_exists = SPA
+            country_exists = SPR
             country_exists = D01
         }
         country_exists = JAP
