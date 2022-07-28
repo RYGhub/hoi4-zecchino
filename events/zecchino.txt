@@ -64,7 +64,7 @@ news_event = {
 
     title = zecchino.3.title
     desc = zecchino.3.desc
-    picture = GFX_event_test
+    picture = GFX_zecchino_beach
 
     is_triggered_only = yes
     trigger = {
