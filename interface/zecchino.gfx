@@ -7,4 +7,8 @@ spriteTypes = {
 		name = "GTX_zecchino_balloons"
 		texturefile = "gfx/event_pictures/zecchino_balloons.dds"
 	}
+	spriteType = {
+		name = "GFX_zecchino_church"
+		texturefile = "gfx/event_pictures/zecchino_church.dds"
+	}
 }
