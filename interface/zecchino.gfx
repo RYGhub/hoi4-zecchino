@@ -11,4 +11,8 @@ spriteTypes = {
 		name = "GFX_zecchino_church"
 		texturefile = "gfx/event_pictures/zecchino_church.dds"
 	}
+	spriteType = {
+		name = "GFX_zecchino_jar"
+		texturefile = "gfx/event_pictures/zecchino_jar.dds"
+	}
 }
