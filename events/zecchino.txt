@@ -43,7 +43,7 @@ news_event = {
 
     title = zecchino.2.title
     desc = zecchino.2.desc
-    picture = GFX_news_event_filov_with_mussolini
+    picture = GFX_zecchino_jar
 
     is_triggered_only = yes
     trigger = {
