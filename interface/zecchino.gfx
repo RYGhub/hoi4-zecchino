@@ -19,4 +19,8 @@ spriteTypes = {
 		name = "GFX_zecchino_matteotti"
 		texturefile = "gfx/event_pictures/zecchino_matteotti.dds"
 	}
+	spriteType = {
+		name = "GFX_zecchino_beach"
+		texturefile = "gfx/event_pictures/zecchino_beach.dds"
+	}
 }
