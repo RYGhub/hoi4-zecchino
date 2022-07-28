@@ -3171,7 +3171,7 @@ focus_tree = {
 
 	focus = {
 		id = GER_anschluss
-		icon = GFX_goal_anschluss
+		icon = GFX_goal_anschluss_changed
 		prerequisite = { focus = GER_rhineland }
 		available_if_capitulated = no
 		available = {
@@ -5920,7 +5920,7 @@ focus_tree = {
 
 	focus = {
 		id = GER_oppose_hitler
-		icon = GFX_focus_ger_oppose_hitler
+		icon = GFX_focus_ger_oppose_hitler_banned
 		mutually_exclusive = { focus = GER_rhineland }
 
 		allow_branch = {
