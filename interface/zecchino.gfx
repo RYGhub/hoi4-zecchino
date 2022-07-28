@@ -43,4 +43,8 @@ spriteTypes = {
 		name = "GFX_goal_tfv_sever_ties_with_uk_banned"
 		texturefile = "gfx/interface/goals/goal_tfv_sever_ties_with_uk_banned.dds"
 	}
+	spriteType = {
+		name = "GFX_goal_generic_political_pressure_banned"
+		texturefile = "gfx/interface/goals/goal_generic_political_pressure_banned.dds"
+	}
 }
