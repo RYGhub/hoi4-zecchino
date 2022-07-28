@@ -24,7 +24,11 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/zecchino_beach.dds"
 	}
 	spriteType = {
-		name = "GFX_zecchino_focus_acic_banned"
-		texturefile = "gfx/interface/goals/focus_acic_banned.dds"
+		name = "GFX_focus_generic_strike_at_democracy2_banned"
+		texturefile = "gfx/interface/goals/focus_generic_strike_at_democracy2_banned.dds"
+	}
+	spriteType = {
+		name = "GFX_focus_eng_decolonization_banned"
+		texturefile = "gfx/interface/goals/focus_eng_decolonization_banned.dds"
 	}
 }
