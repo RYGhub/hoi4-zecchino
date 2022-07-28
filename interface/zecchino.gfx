@@ -47,4 +47,16 @@ spriteTypes = {
 		name = "GFX_goal_generic_political_pressure_banned"
 		texturefile = "gfx/interface/goals/goal_generic_political_pressure_banned.dds"
 	}
+	spriteType = {
+		name = "GFX_focus_ger_oppose_hitler_banned"
+		texturefile = "gfx/interface/goals/focus_ger_oppose_hitler_banned.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_anschluss_changed"
+		texturefile = "gfx/interface/goals/goal_anschluss_changed.dds"
+	}
+	spriteType = {
+		name = "GFX_goal_generic_dangerous_deal_banned"
+		texturefile = "gfx/interface/goals/goal_generic_dangerous_deal_banned.dds"
+	}
 }
