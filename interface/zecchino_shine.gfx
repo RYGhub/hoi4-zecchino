@@ -1,0 +1,253 @@
+spriteTypes = {
+    spriteType = {
+		name = "GFX_chi_mission_to_the_soviet_union_banned_shine"
+		texturefile = "gfx/interface/goals/focus_chi_mission_to_the_soviet_union_banned.dds"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/focus_chi_mission_to_the_soviet_union_banned.dds"
+			animationtexturefile = "gfx/interface/goals/banned_shine_overlay.dds"
+			animationrotation = 0
+			animationlooping = yes
+			animationtime = 5.00
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "pulsing"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+
+		legacy_lazy_load = no
+	}
+    spriteType = {
+		name = "GFX_focus_eng_decolonization_banned_shine"
+		texturefile = "gfx/interface/goals/focus_eng_decolonization_banned.dds"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/focus_eng_decolonization_banned.dds"
+			animationtexturefile = "gfx/interface/goals/banned_shine_overlay.dds"
+			animationrotation = 0
+			animationlooping = yes
+			animationtime = 5.00
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "pulsing"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+
+		legacy_lazy_load = no
+	}
+    spriteType = {
+		name = "GFX_focus_generic_strike_at_democracy2_banned_shine"
+		texturefile = "gfx/interface/goals/focus_generic_strike_at_democracy2_banned.dds"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/focus_generic_strike_at_democracy2_banned.dds"
+			animationtexturefile = "gfx/interface/goals/banned_shine_overlay.dds"
+			animationrotation = 0
+			animationlooping = yes
+			animationtime = 5.00
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "pulsing"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+
+		legacy_lazy_load = no
+	}
+    spriteType = {
+		name = "GFX_focus_ger_oppose_hitler_banned_shine"
+		texturefile = "gfx/interface/goals/focus_ger_oppose_hitler_banned.dds"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/focus_ger_oppose_hitler_banned.dds"
+			animationtexturefile = "gfx/interface/goals/banned_shine_overlay.dds"
+			animationrotation = 0
+			animationlooping = yes
+			animationtime = 5.00
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "pulsing"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+
+		legacy_lazy_load = no
+	}
+    spriteType = {
+		name = "GFX_goal_demand_sudetenland_banned_shine"
+		texturefile = "gfx/interface/goals/goal_demand_sudetenland_banned.dds"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/goal_demand_sudetenland_banned.dds"
+			animationtexturefile = "gfx/interface/goals/banned_shine_overlay.dds"
+			animationrotation = 0
+			animationlooping = yes
+			animationtime = 5.00
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "pulsing"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+
+		legacy_lazy_load = no
+	}
+    spriteType = {
+		name = "GFX_goal_generic_dangerous_deal_banned_shine"
+		texturefile = "gfx/interface/goals/goal_generic_dangerous_deal_banned.dds"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/goal_generic_dangerous_deal_banned.dds"
+			animationtexturefile = "gfx/interface/goals/banned_shine_overlay.dds"
+			animationrotation = 0
+			animationlooping = yes
+			animationtime = 5.00
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "pulsing"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+
+		legacy_lazy_load = no
+	}
+    spriteType = {
+		name = "GFX_goal_generic_political_pressure_banned_shine"
+		texturefile = "gfx/interface/goals/goal_generic_political_pressure_banned.dds"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/goal_generic_political_pressure_banned.dds"
+			animationtexturefile = "gfx/interface/goals/banned_shine_overlay.dds"
+			animationrotation = 0
+			animationlooping = yes
+			animationtime = 5.00
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "pulsing"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+
+		legacy_lazy_load = no
+	}
+    spriteType = {
+		name = "GFX_goal_tfv_sever_ties_with_uk_banned_shine"
+		texturefile = "gfx/interface/goals/goal_tfv_sever_ties_with_uk_banned.dds"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/goal_tfv_sever_ties_with_uk_banned.dds"
+			animationtexturefile = "gfx/interface/goals/banned_shine_overlay.dds"
+			animationrotation = 0
+			animationlooping = yes
+			animationtime = 5.00
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "pulsing"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+
+		legacy_lazy_load = no
+	}
+
+	SpriteType = {
+		name = "GFX_goal_anschluss_changed_shine"
+		texturefile = "gfx/interface/goals/goal_anschluss_changed.dds"
+        effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/goal_anschluss_changed.dds"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = -90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+
+		animation = {
+			animationmaskfile = "gfx/interface/goals/goal_anschluss_changed.dds"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = 90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+        
+		legacy_lazy_load = no
+	}
+
+	SpriteType = {
+		name = "GFX_goal_generic_construct_civ_factory_changed_shine"
+		texturefile = "gfx/interface/goals/goal_generic_construct_civ_factory_changed.dds"
+        effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/goal_generic_construct_civ_factory_changed.dds"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = -90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+
+		animation = {
+			animationmaskfile = "gfx/interface/goals/goal_generic_construct_civ_factory_changed.dds"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = 90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+        
+		legacy_lazy_load = no
+	}
+    
+	SpriteType = {
+		name = "GFX_goal_generic_position_armies_changed_shine"
+		texturefile = "gfx/interface/goals/goal_generic_position_armies_changed.dds"
+        effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/goal_generic_position_armies_changed.dds"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = -90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+
+		animation = {
+			animationmaskfile = "gfx/interface/goals/goal_generic_position_armies_changed.dds"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = 90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+        
+		legacy_lazy_load = no
+	}
+}
