@@ -4,5 +4,6 @@ version="1.0.0"
 tags={
 	"Events"
 }
-supported_version="1.11.*"
 user_dir="zecchino"
+supported_version="1.11.*"
+remote_file_id="2843784389"
