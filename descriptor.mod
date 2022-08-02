@@ -1,6 +1,6 @@
 name="Operazione Zecchino d'Oro"
 picture="thumbnail.png"
-version="0.0.1"
+version="1.0.0"
 tags={
 	"Events"
 }
