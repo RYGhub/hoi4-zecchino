@@ -5,3 +5,4 @@ tags={
 	"Events"
 }
 supported_version="1.11.*"
+user_dir="zecchino"
